@@ -1,0 +1,39 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  EXECUTIVE-SUMMARY
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Challenges:
+
+The only challenge I faced in this project was handling 
+MESI state transitions.  Like with any problem in programming, 
+drawing a picture always explains the obvious.  Once I had 
+doodled all possible scenarios on a write in the L3, everything 
+fell into place.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Insight:
+
+This project was no doubt my favorite assignment at UWT so far. 
+I learned more in this assignment alone than my Java programming 
+practicum.  It motivates me to continue most of my programming 
+in C and learn more about the linux kernel (and eventually 
+program in the kernel).
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+References:
+
+I did the occasional google search and read the top search result 
+but no actual code was referenced in making this program.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Evaluation:
+
+I prefer doing these kinds of projects myself to learn every part
+of the assignment on my own.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
